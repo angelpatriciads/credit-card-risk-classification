@@ -26,6 +26,12 @@ Based on the Classification Report, the highest F1-score was obtained in the dec
 The interpretation of the results obtained by researchers has the conclusion that to find out whether a debtor is eligible to receive credit or not by taking into account the amount of annual income, loan class, interest rate, percent of income, home ownership
 mortgage/rent, history of default. In the application that is formed, when it is submitted, it will appear approved or rejected according to the eligibility level of the recipient of the credit customer.
 
+## Contributing Members
+|Name     |  Slack Handle   | 
+|---------|-----------------|
+|[Annisa Zahra](https://github.com/annisazahra01)| @johnDoe        |
+|[Hosia Josindra](https://github.com/hosiajosindra) |     @janeDoe    |
+
 ## Getting Started
 1. You can access the raw data [here](https://github.com/angelpatriciads/credit-cark-risk-classification/blob/main/credit_risk_dataset.csv) within this repo.
 2. All of the scripts are being kept [here](https://github.com/angelpatriciads/credit-cark-risk-classification/blob/main/credit_risk_classification.ipynb).
