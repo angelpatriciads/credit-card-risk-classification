@@ -27,10 +27,10 @@ The interpretation of the results obtained by researchers has the conclusion tha
 mortgage/rent, history of default. In the application that is formed, when it is submitted, it will appear approved or rejected according to the eligibility level of the recipient of the credit customer.
 
 ## Contributing Members
-|Name     |  Slack Handle   | 
+|Name     |  Github Account   | 
 |---------|-----------------|
-|[Annisa Zahra](https://github.com/annisazahra01)| @johnDoe        |
-|[Hosia Josindra](https://github.com/hosiajosindra) |     @janeDoe    |
+|Annisa Zahra | [github.com/annisazahra01](https://github.com/annisazahra01)    |
+|Hosia Josindra |    [https://github.com/hosiajosindra](https://github.com/hosiajosindra)    |
 
 ## Getting Started
 1. You can access the raw data [here](https://github.com/angelpatriciads/credit-cark-risk-classification/blob/main/credit_risk_dataset.csv) within this repo.
