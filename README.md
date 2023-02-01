@@ -29,8 +29,9 @@ mortgage/rent, history of default. In the application that is formed, when it is
 ## Contributing Members
 |Name     |  Github Account   | 
 |---------|-----------------|
+|Angelica Patricia | [github.com/angelpatriciads](https://github.com/angelpatriciads)    |
 |Annisa Zahra | [github.com/annisazahra01](https://github.com/annisazahra01)    |
-|Hosia Josindra |    [https://github.com/hosiajosindra](https://github.com/hosiajosindra)    |
+|Hosia Josindra |    [github.com/hosiajosindra](https://github.com/hosiajosindra)    |
 
 ## Getting Started
 1. You can access the raw data [here](https://github.com/angelpatriciads/credit-cark-risk-classification/blob/main/credit_risk_dataset.csv) within this repo.
